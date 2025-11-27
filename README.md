@@ -3,7 +3,9 @@
 🏠 Housing Register DApp
 Contract Address
 0x1cce12cDF21731438446df106ed2BFcE7EFa12eD
+
 Explorer: https://coston2-explorer.flare.network/address/0x1cce12cDF21731438446df106ed2BFcE7EFa12eD
+
 📌 Project Description
 The Housing Register DApp is a decentralized registry built on the Flare Coston2 Testnet that allows users to register houses on-chain. Each house entry stores the location, price, and owner address and is permanently recorded on the blockchain.
 
